@@ -2,7 +2,7 @@
 
 ## Sobre o desafio
 
-Esse é um teste feito para conhecer um  pouco mais de cada candidato a vaga de DevOps na iClinic. Não se trata de um teste objetivo, capaz de gerar uma nota ou uma taxa de acerto, mas sim de um estudo de caso com o propósito de conhecer os conhecimentos, experiências e modo de trabalhar de um cadidato. Sinta-se livre para desenvolver sua solução para o problema proposto e em caso de dúvidas entre em contato no devops`at`iclinic.com.br.
+Esse é um teste feito para conhecer um  pouco mais de cada candidato a vaga de DevOps na iClinic. Não se trata de um teste objetivo, capaz de gerar uma nota ou uma taxa de acerto, mas sim de um estudo de caso com o propósito de conhecer os conhecimentos, experiências e modo de trabalhar de um cadidato. Sinta-se livre para desenvolver sua solução para o problema proposto e em caso de dúvidas entre em contato no dev`at`iclinic.com.br.
 
 ## Cenário
 
@@ -31,7 +31,7 @@ Observando a imagem abaixo, crie um arquivo `part2.md` com a descrição técnic
 
 * Você deve clonar esse repositório e commitar todas as modificações, porém, não abra um pull request ou deixe seu código de resposta aberto em um fork, por exemplo.
 * Depois que terminar, compacte todo o diretório e nos envie. **Queremos analisar seus commits**.
-* Envie para o email devops`at`iclinic.com.br.
+* Envie para o email dev`at`iclinic.com.br.
 
 
 Bom trabalho!
