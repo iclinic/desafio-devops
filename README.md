@@ -17,7 +17,7 @@ Sinta-se livre para mudar o código da aplicação se julgar necessário.
 
 # Parte 2
 
-## Sobre o 'teste'
+## Sobre o desafio
 
 Esse teste busca entender seus conceitos de arquitetura na AWS, observando um cenário já existente. Queremos saber se você entende a AWS e seus produtos e como funciona a comunicação entre eles.
 
