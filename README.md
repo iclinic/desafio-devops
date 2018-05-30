@@ -25,7 +25,7 @@ Esse teste busca entender seus conceitos de arquitetura na AWS, observando um ce
 
 Observando a imagem abaixo, crie um arquivo `part2.md` com a descrição técnica do fluxo dessa topologia, conforme seu entendimento.
 
-![cenario-aws-teste]()
+![cenario-aws-teste](https://user-images.githubusercontent.com/29125605/29424258-5d7d5c2a-8355-11e7-9701-2fb26621b6b0.png)
 
 # Entrega
 
